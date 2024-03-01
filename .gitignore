@@ -1,0 +1,8 @@
+# MacOS
+.DS_Store
+
+# Env config
+.env
+
+# Built binaries
+/bin
